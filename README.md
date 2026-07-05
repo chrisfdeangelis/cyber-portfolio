@@ -14,13 +14,10 @@ Hi! I'm Chris...
 
 ### IBM QRadar Homelab
 
-- Built on Rocky Linux
-
-- Configured WinCollect
-
-\- Configured rsyslog
-
-\- Collected Windows and Linux logs
+* Built on Rocky Linux
+* Configured WinCollect
+* Configured rsyslog
+* Collected Windows and Linux logs
 
 
 
@@ -34,11 +31,9 @@ Hi! I'm Chris...
 
 \### Splunk SIEM Lab
 
-\- Universal Forwarder
-
-\- SPL searches
-
-\- Dashboards
+* Universal Forwarder
+* SPL searches
+* Dashboards
 
 
 
@@ -52,11 +47,9 @@ Hi! I'm Chris...
 
 \### LetsDefend Investigations
 
-\- Malware
-
-\- Phishing
-
-\- Threat Hunting
+* Malware
+* Phishing
+* Threat Hunting
 
 
 
