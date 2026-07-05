@@ -25,11 +25,11 @@ Hi! I'm Chris...
 
 
 
-\---
+---
 
 
 
-\### Splunk SIEM Lab
+### Splunk SIEM Lab
 
 * Universal Forwarder
 * SPL searches
@@ -41,11 +41,11 @@ Hi! I'm Chris...
 
 
 
-\---
+---
 
 
 
-\### LetsDefend Investigations
+### LetsDefend Investigations
 
 * Malware
 * Phishing
