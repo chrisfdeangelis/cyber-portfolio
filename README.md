@@ -12,22 +12,6 @@ Hi! I'm Chris...
 
 
 
-### IBM QRadar Homelab
-
-* Built on Rocky Linux
-* Configured WinCollect
-* Configured rsyslog
-* Collected Windows and Linux logs
-
-
-
-➡ View Project
-
-
-
----
-
-
 
 ### Splunk SIEM Lab
 
