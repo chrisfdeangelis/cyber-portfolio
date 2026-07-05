@@ -8,15 +8,15 @@ Hi! I'm Chris...
 
 
 
-\## Projects
+## Projects
 
 
 
-\### IBM QRadar Homelab
+### IBM QRadar Homelab
 
-\- Built on Rocky Linux
+- Built on Rocky Linux
 
-\- Configured WinCollect
+- Configured WinCollect
 
 \- Configured rsyslog
 
