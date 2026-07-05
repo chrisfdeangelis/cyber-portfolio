@@ -29,7 +29,7 @@ Hi! I'm Chris...
 
 
 
-### LetsDefend Investigations
+### Lets Defend - Live SOC Monitoring
 
 * Malware
 * Phishing
@@ -37,5 +37,5 @@ Hi! I'm Chris...
 
 
 
-➡ View Project
+➡ [[View Project](https://github.com/chrisfdeangelis/SOC-monitoring)]
 
