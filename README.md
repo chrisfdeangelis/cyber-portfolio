@@ -21,7 +21,7 @@ Hi! I'm Chris...
 
 
 
-➡ View Project
+➡ [View Project](https://github.com/chrisfdeangelis/splunk-homelab)
 
 
 
